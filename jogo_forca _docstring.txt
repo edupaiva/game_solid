@@ -1,0 +1,6 @@
+📌 O que foi adicionado?
+✅ Docstrings para a classe JogoForca explicando o objetivo do jogo.
+✅ Docstrings para cada método, explicando os parâmetros, retorno e funcionalidade.
+✅ Melhoria nos tipos de dados nos parâmetros e retornos (str, bool).
+
+Isso deixa o código mais documentado, fácil de entender e pronto para manutenção futura! 🚀
