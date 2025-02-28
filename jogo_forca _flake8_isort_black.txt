@@ -1,0 +1,13 @@
+📌 O que foi aplicado?
+
+✅ Black
+Padronizou a identação e quebras de linha.
+Quebrou a lista pessoas para melhor legibilidade.
+
+✅ isort
+Garantiu que os imports estavam organizados corretamente.
+
+✅ Flake8
+Removemos espaços desnecessários.
+Garantimos que cada linha tem no máximo 79 caracteres (PEP 8).
+Corrigimos estrutura de strings para manter legibilidade.
