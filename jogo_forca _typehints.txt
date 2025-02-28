@@ -1,0 +1,5 @@
+📌 Benefícios do uso de Type Hints
+✅ Torna o código mais legível e compreensível.
+✅ Facilita a manutenção e refatoração futura.
+✅ Melhora a integração com editores de código e ferramentas como mypy para verificação estática.
+✅ Ajuda a evitar erros, pois deixa claro quais tipos são esperados.
