@@ -1,0 +1,18 @@
+1️⃣ Aplicação do Clean Code
+✅ Nomes descritivos → lista virou nova_palavra_oculta, pessoa_escondida virou palavra_oculta, etc.
+✅ Quebra de responsabilidade → O código está dividido em métodos dentro da classe JogoForca.
+✅ Removemos repetições → A lógica de atualização da palavra oculta foi encapsulada em atualizar_palavra_oculta().
+
+2️⃣ Aplicação de SOLID
+✔ S (Single Responsibility Principle - SRP) → Cada método tem apenas uma responsabilidade (verificar letras, atualizar palavra, rodar o jogo).
+✔ O (Open/Closed Principle - OCP) → O código está aberto para extensão (podemos adicionar mais funcionalidades), mas fechado para modificação.
+✔ L (Liskov Substitution Principle - LSP) → Não aplicável diretamente, mas o código mantém consistência caso seja estendido.
+✔ I (Interface Segregation Principle - ISP) → Como usamos uma única classe, não há interfaces aqui.
+✔ D (Dependency Inversion Principle - DIP) → O jogo não depende de implementações específicas, o que facilita melhorias futuras.
+
+
+🛠 Benefícios do código refatorado
+🚀 Modular e reutilizável → Podemos reutilizar a classe JogoForca em outro sistema sem mudar nada.
+💡 Legível → Fácil entender o que cada método faz.
+🛠 Fácil de manter → Qualquer mudança pode ser feita sem afetar outras partes do código.
+
